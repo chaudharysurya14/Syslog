@@ -1,0 +1,5 @@
+{
+    "log_level": "INFO",
+    "port": 514,
+    "output_format": "plain"
+}
