@@ -21,5 +21,5 @@ Syslog is a logging protocol used for sending and receiving log messages across 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/syslog.git
+   git clone https://github.com/chaudharysurya14/Syslog.git
    cd syslog
